@@ -1,0 +1,11 @@
+company_name,website,linkedin_url,industry,contact_name,contact_title,notes
+Anthropic,anthropic.com,linkedin.com/company/anthropic,AI,Dario Amodei,CEO,Focus on AI safety and research
+OpenAI,openai.com,linkedin.com/company/openai,AI,Sam Altman,CEO,Leading AI company
+Stripe,stripe.com,linkedin.com/company/stripe,Fintech,Patrick Collison,CEO,Payment processing platform
+Databricks,databricks.com,linkedin.com/company/databricks,Data & Analytics,Ali Ghodsi,CEO,Data lakehouse platform
+Figma,figma.com,linkedin.com/company/figma,Design Software,Dylan Field,CEO,Collaborative design tool
+Notion,notion.so,linkedin.com/company/notion,Productivity Software,Ivan Zhao,CEO,All-in-one workspace
+Linear,linear.app,linkedin.com/company/linear,Project Management,Karri Saarinen,CEO,Issue tracking for dev teams
+Vercel,vercel.com,linkedin.com/company/vercel,Developer Tools,Guillermo Rauch,CEO,Frontend cloud platform
+Supabase,supabase.com,linkedin.com/company/supabase,Database/Backend,Paul Copplestone,CEO,Open source Firebase alternative
+Replicate,replicate.com,linkedin.com/company/replicate,AI Infrastructure,Ben Firshman,CEO,Machine learning deployment

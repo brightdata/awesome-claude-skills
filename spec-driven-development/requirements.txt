@@ -1,0 +1,14 @@
+# Requirements for spec-driven-development scripts
+# These are minimal dependencies for the Python helper scripts
+
+# No external dependencies required for basic scripts
+# The scripts use only Python standard library
+
+# Optional: For enhanced markdown processing
+# markdown>=3.5.0
+
+# Optional: For YAML processing if needed
+# pyyaml>=6.0.0
+
+# Note: Bright Data MCP tools are accessed through Claude Code's MCP integration
+# and don't require Python dependencies
