@@ -8,8 +8,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
-[Features](#-features) • [Skills](#-available-skills) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Contributing](#-contributing)
-
 </div>
 
 ---
@@ -149,8 +147,8 @@ All skills in this repository meet these standards:
 ### Top Contributors
 
 <!-- Update with actual contributors -->
-<a href="https://github.com/yourusername/awesome-claude-skills/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/awesome-claude-skills" />
+<a href="https://github.com/brightdata/awesome-claude-skills/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=brightdata/awesome-claude-skills" />
 </a>
 
 ### Featured Community Skills
