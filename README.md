@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src=assets/banner.jpg>
 
 
 ### A curated collection of powerful, production-ready skills for Claude
